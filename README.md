@@ -1,4 +1,4 @@
-# Voting System
+# University Voting System
 
 ![](https://img.shields.io/github/license/Candida18/Online-Voting-System?style=for-the-badge) &emsp; &emsp;
 
